@@ -1,5 +1,5 @@
 # Twitter-Automatic-polls
-NLP / Graph's community 
+NLP / Community graphs
 
 ### Projet réalisé par :
 Kim-Anh Laura Nguyen et Arij Riabi
